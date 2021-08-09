@@ -56,3 +56,6 @@ def get_parameter(parameter_name, with_decryption):
 # Making this change on the main branch will it stay or cause a conflict
 
 # changes v2 master
+
+def new_func():
+    print("Hi, I'm a new func")
