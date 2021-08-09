@@ -51,5 +51,6 @@ def get_parameter(parameter_name, with_decryption):
         return {"error": ["Missing Token"]}
     return result["Parameter"]["Value"]
 
+
 # Here is another comment that comes from the new branch, will it conflict?
 # Making this change on the main branch will it stay or cause a conflict
