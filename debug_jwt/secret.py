@@ -59,3 +59,7 @@ def get_parameter(parameter_name, with_decryption):
 
 def new_func():
     print("Hi, I'm a new func")
+
+
+def new_v3_func():
+    print("Hi, I'm func3")
